@@ -5,7 +5,7 @@ export default function() { //make sure that it can be used in the application
         {title: 'Harry Potter' },
         {title: 'The Dark Tower' },
         {title: 'Eloquent Ruby' }
-    ]
+    ];
 }
 //time to wire it in to the application
 //in index.js
